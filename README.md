@@ -4,8 +4,8 @@
 
 
 ## Blockchain Ends associated to this project
-#### Smart contracts deployment
-
+- [frontend](https://github.com/Luyunee/frontend_nft_market/blob/main/README.md)
+- [smart contracts deployment](https://github.com/Luyunee/hardhat_nft_market/tree/master)
 
 
 ## Built With
